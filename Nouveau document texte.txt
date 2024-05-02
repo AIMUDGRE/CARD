@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Uber Eats Gift Card Giveaway</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    .container {
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 0 20px;
+    }
+    h1 {
+      color: #333;
+      margin-bottom: 20px;
+    }
+    p {
+      margin-bottom: 20px;
+    }
+    .giveaway-img {
+      max-width: 100%;
+      height: auto;
+      margin-bottom: 20px;
+    }
+    .btn-participate {
+      display: inline-block;
+      background-color: #ff5a5f;
+      color: #fff;
+      font-size: 16px;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: background-color 0.3s;
+    }
+    .btn-participate:hover {
+      background-color: #d9323f;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Uber Eats Gift Card Giveaway</h1>
+    <img src="https://i.postimg.cc/0NJHVMDj/Uber-Eats-Horizontal-2020.png" alt="Uber Eats Gift Card" class="giveaway-img">
+    <p>Enter for a chance to win a $25 Uber Eats Gift Card! One lucky winner will be chosen.</p>
+    <a href="https://smrturl.co/o/614035/53374878?s1=" class="btn-participate">Participate Now</a>
+  </div>
+</body>
+</html>
